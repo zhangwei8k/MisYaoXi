@@ -1,0 +1,15 @@
+{
+  "name": "sopo zd",
+  "version": "1.0.0",
+  "description": "sopo zd soft",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "sopo",
+  "license": "CC0-1.0",
+  "homepage": "https://www.soposd.com",
+  "devDependencies": {
+    "electron-prebuilt": "^0.35.0"
+  }
+}
